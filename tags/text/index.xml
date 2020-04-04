@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text on Hugo Future Imperfect Slim</title>
+    <link>https://haison19952013.github.io/OurDiary/tags/text/</link>
+    <description>Recent content in text on Hugo Future Imperfect Slim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://haison19952013.github.io/OurDiary/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blog</title>
+      <link>https://haison19952013.github.io/OurDiary/blog/first_blog/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://haison19952013.github.io/OurDiary/blog/first_blog/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://haison19952013.github.io/OurDiary/blog/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://haison19952013.github.io/OurDiary/blog/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
